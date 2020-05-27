@@ -1,0 +1,24 @@
+table{
+  margin-left:auto;
+  margin-right:auto;
+  width: 90vw;
+  border-collapse: separate;
+  border: 1px solid black;
+  background-color: #eee;
+}
+table caption{
+  font-size: 24px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+td {
+  width:33%;
+  color: #233;
+  border-top: 1px solid gray;
+  font-size: 18px;
+}
+.tb_first td{
+  color: #111;
+  font-size: 22px;
+  border-top: 0px;
+}
